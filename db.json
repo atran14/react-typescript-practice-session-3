@@ -1,0 +1,6 @@
+{
+    "products": [
+        {"id": 1, "name": "Highly-Efficient TV", "description": "Some description here", "price":59.99},
+        {"id": 2, "name": "High-end Refrigerator", "description": "Some extra description here", "price":129.99}
+    ]
+}
