@@ -14,6 +14,9 @@
 # code experiments
 /experimental
 
+# specifics to dev environment
+/.vscode
+
 # misc
 .DS_Store
 .env.local
